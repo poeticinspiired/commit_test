@@ -1,0 +1,24 @@
+Resume:
+- LinkdIn             OK
+- Github               
+- Personal webpage
+- Projects
+
+Github:
+- Relevant assignments
+- Practice code
+- Projects
+
+Projects:
+- Python automation project
+- Front-end project (webpage)
+- Full stack web application (front and back-end)
+- REST or FAST APIs (python) (automated)
+
+Git Vs GitHub
+
+Software           ----- Service
+Local files         ----- cloud based
+work directory (repository)
+
+New information
